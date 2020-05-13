@@ -1,9 +1,0 @@
-{
-    "eslint.codeAction.disableRuleComment": {
-    
-    },
-    "eslint.workingDirectories": [
-    
-    ],
-    "eslint.run": "onSave"
-}
