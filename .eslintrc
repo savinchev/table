@@ -14,7 +14,8 @@
         "indent": "off",
         "no-tabs": "off",
         "eol-last": "off",
-        "object-curly-spacing": "off"
+        "object-curly-spacing": "off",
+        "operator-linebreak": "off"
     },
     "extends": ["google"]
 }
